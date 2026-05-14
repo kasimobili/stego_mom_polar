@@ -1,0 +1,16 @@
+# Python >= 3.9 recommended. Pin versions in your own deployment as needed.
+torch>=1.13
+torchvision
+numpy>=1.21
+opencv-python>=4.5
+Pillow>=9.0
+scikit-image>=0.19
+transformers>=4.30
+tqdm>=4.60
+lpips>=0.1.7
+accelerate>=0.20
+safetensors>=0.3
+
+# Polar codes (import name: polarcodes). Install the package you used in development, e.g.:
+#   pip install py-polar-codes
+# or follow https://github.com/mcba1n/polar-codes if needed.
