@@ -13,7 +13,7 @@ a minimal runnable pipeline for **orthogonal latent mapping + polar coding** und
 **本项目的作者及单位** · The author and affiliation of this project:
 | Field · 字段 | Content · 内容 |
 | :--- | :--- |
-| **项目名称** *Project Name* | `POLARIS`（正交映射 + 极化码潜空间隐写） |
+| **项目名称** *Project Name* | `stego_mom_polar`（正交映射 + 极化码潜空间隐写） |
 | **项目作者** *Authors* | DuanHaohan |
 | **作者单位** *Affiliation* | 暨南大学网络空间安全学院 · College of Cyber Security, Jinan University |
 
